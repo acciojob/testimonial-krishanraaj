@@ -1,7 +1,12 @@
-/*  your css code here. If applicable */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  color: #333;
 }
 
 .testimonial-section {
@@ -13,13 +18,8 @@ body {
   background-color: #fff;
   border: 1px solid #ddd;
   padding: 20px;
-  margin-bottom: 20px;
+  margin: 20px 0;
   border-radius: 5px;
-}
-
-.text {
-  font-size: 16px;
-  color: #333;
 }
 
 .author {
